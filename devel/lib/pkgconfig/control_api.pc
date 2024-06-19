@@ -1,0 +1,8 @@
+prefix=/home/reykigarcia/catkin_ws/devel
+
+Name: control_api
+Description: Description of control_api
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

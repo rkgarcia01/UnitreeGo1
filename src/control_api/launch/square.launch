@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="control_api" type="controlapi_square" name="controlapi_square_node" output="screen"/>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/reykigarcia/catkin_ws/install
+
+Name: turtle_sim_cpp
+Description: Description of turtle_sim_cpp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

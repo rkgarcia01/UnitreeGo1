@@ -1,0 +1,2 @@
+control_api:turtle_sim_cpp:turtle_sim_python:unitree_legged_sdk:unitree_ros_to_real/unitree_legged_msgs:unitree_ros_to_real/unitree_legged_real
+-DCATKIN_DEVEL_PREFIX=/home/reykigarcia/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/reykigarcia/catkin_ws/install -G Unix Makefiles

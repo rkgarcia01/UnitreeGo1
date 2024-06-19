@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="unitree_legged_real" type="twist_sub" name="twist_sub_node" output="screen" required="true"/> 
+    <node pkg="control_api" type="circle_walkk" name="circle_walkk_node" output="screen"/>
+</launch>
